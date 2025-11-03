@@ -1,0 +1,369 @@
+[
+    {
+        "condition": "Fever",
+        "explanation": "Fever is not an illness but a common sign that the body is fighting an infection, typically viral or bacterial. It is defined as a temporary rise in body temperature above normal (37°C or 98.6°F).",
+        "symptoms": [
+            "Body temperature above 38°C (100.4°F)",
+            "Chills and shivering",
+            "Sweating and flushed skin",
+            "Headache and body aches",
+            "Fatigue or weakness"
+        ],
+        "first_aid": "Drink plenty of water and clear fluids to prevent dehydration. Rest and avoid strenuous activity. Apply a cool cloth to the forehead or body. Seek medical care if the fever is very high or lasts more than 3 days.",
+        "prevention": "Practice rigorous hand hygiene (washing hands frequently). Avoid close contact with sick individuals. Ensure vaccinations are up to date. Dress appropriately for the weather to avoid overheating."
+    },
+    {
+        "condition": "Cold",
+        "explanation": "The common cold is a mild viral infection of the nose and throat. It usually improves within 1–2 weeks and is not treatable with antibiotics as it’s caused by viruses, not bacteria.",
+        "symptoms": [
+            "Runny or stuffy nose",
+            "Sore throat",
+            "Cough and Sneezing",
+            "Mild body aches or headache",
+            "Low-grade fever or tiredness"
+        ],
+        "first_aid": "Rest and drink plenty of fluids. Use saline nasal spray or warm steam inhalation for congestion. Gargle with warm salt water or use lozenges/honey (for ages 1+).",
+        "prevention": "Wash hands often with soap and water. Avoid close contact with sick people. Cover mouth and nose when coughing or sneezing. Stay home when sick."
+    },
+    {
+        "condition": "Cough",
+        "explanation": "Coughing and sneezing help clear airways but are the main ways viruses (like flu and COVID-19) spread. Covering your mouth and maintaining clean hands are essential to stop the spread of respiratory illnesses.",
+        "symptoms": [
+            "Frequent coughing or sneezing",
+            "Irritation in throat"
+        ],
+        "first_aid": "Cover mouth and nose with a tissue when coughing or sneezing, and dispose of tissues immediately. If a tissue is not available, cough or sneeze into your elbow. Wash hands immediately after coughing or sneezing.",
+        "prevention": "Practice good hand hygiene and avoid touching your face. Maintain distance from sick individuals. Cover coughs and sneezes properly. Clean frequently touched surfaces."
+    },
+    {
+        "condition": "Headache",
+        "explanation": "Headache disorders are common nervous system conditions, including tension-type and migraine. Causes may include stress, dehydration, poor sleep, or poor diet.",
+        "symptoms": [
+            "Pain or pressure in the head",
+            "Sensitivity to light or sound",
+            "Possible nausea or vomiting",
+            "Neck stiffness or tension"
+        ],
+        "first_aid": "Rest in a quiet, dark room. Stay hydrated and eat regular meals. Apply a cold or warm compress to the head or neck.",
+        "prevention": "Maintain regular sleep and meal schedules. Stay hydrated and avoid skipping meals. Limit caffeine and alcohol intake. Practice stress management and relaxation techniques."
+    },
+    {
+        "condition": "Sore Throat",
+        "explanation": "A sore throat is most often caused by viruses like cold or flu, but can also be due to bacteria (strep throat) or allergies. Most viral sore throats heal within a week without antibiotics.",
+        "symptoms": [
+            "Pain or irritation in the throat",
+            "Pain while swallowing",
+            "Dry or scratchy feeling in throat",
+            "Possible cough or runny nose"
+        ],
+        "first_aid": "Gargle with warm salt water. Drink warm fluids and stay hydrated. Use honey (for people over 1 year old) or suck on lozenges/ice chips.",
+        "prevention": "Wash hands often and avoid close contact with sick people. Avoid smoking and exposure to secondhand smoke. Maintain good hygiene and a healthy lifestyle. Stay home when sick."
+    },
+    {
+        "condition": "Diarrhea",
+        "explanation": "Diarrhea is a condition of passing loose, watery stools frequently. It is often caused by viral, bacterial, or parasitic infections. The main risk is rapid dehydration, especially in vulnerable groups.",
+        "symptoms": [
+            "Three or more loose or watery stools in 24 hours",
+            "Abdominal cramps",
+            "Nausea or vomiting",
+            "Signs of dehydration (dry mouth, dizziness)"
+        ],
+        "first_aid": "Drink plenty of fluids (water, oral rehydration solutions, clear soups). Eat light, bland foods like rice, bananas, and toast. Avoid dairy, caffeine, alcohol, and greasy foods until recovery. Seek medical attention if dehydration is severe or if blood is in stool.",
+        "prevention": "Wash hands frequently with soap and water. Drink safe, clean water. Eat properly cooked food and avoid raw or unpasteurized items. Maintain good hygiene after using the bathroom."
+    },
+    {
+        "condition": "Constipation",
+        "explanation": "Constipation is a common digestive issue caused by slow movement of stool through the intestines. It can result from low fiber intake, dehydration, or lack of exercise.",
+        "symptoms": [
+            "Fewer than three bowel movements a week",
+            "Hard, dry, or lumpy stools",
+            "Straining when passing stools",
+            "Abdominal bloating or discomfort"
+        ],
+        "first_aid": "Increase intake of fiber-rich foods (fruits, vegetables, whole grains). Drink plenty of water throughout the day. Exercise regularly to help bowel movement. Establish a regular bathroom routine.",
+        "prevention": "Eat a balanced diet with adequate fiber. Stay hydrated daily. Maintain regular physical activity. Respond promptly to the urge to pass stool."
+    },
+    {
+        "condition": "Indigestion",
+        "explanation": "Indigestion is a group of symptoms that cause discomfort in the upper abdomen. It results from overeating, stress, certain medicines, or digestive issues.",
+        "symptoms": [
+            "Pain or burning in the upper abdomen",
+            "Bloating and discomfort after eating",
+            "Feeling full quickly or for long after meals",
+            "Nausea or belching"
+        ],
+        "first_aid": "Eat smaller, more frequent meals. Avoid fatty, spicy, or acidic foods. Reduce caffeine, alcohol, and carbonated drinks. Avoid lying down immediately after eating. ",
+        "prevention": "Eat slowly and avoid overeating. Maintain a healthy weight. Avoid smoking and excessive alcohol. Manage stress effectively. Identify and avoid personal food triggers."
+    },
+    {
+        "condition": "Nosebleed",
+        "explanation": "A nosebleed occurs when small blood vessels inside the nose rupture, typically due to dry air, nasal irritation, or minor trauma.",
+        "symptoms": [
+            "Bleeding from one or both nostrils",
+            "Blood dripping from the nose or down the throat",
+            "Dizziness or lightheadedness (if severe)"
+        ],
+        "first_aid": "Stay calm and sit upright, leaning slightly forward. Pinch the soft part of the nose just below the bony bridge for 10–15 minutes without checking. Breathe through the mouth. Apply a cold compress to the nose bridge.",
+        "prevention": "Keep nasal passages moist with saline sprays or humidifiers. Avoid picking or forcefully blowing the nose. Use protective gear during high-risk activities. Manage underlying health conditions like hypertension."
+    },
+    {
+        "condition": "Cuts and Wounds",
+        "explanation": "Cuts and wounds are breaks in the skin. Most minor wounds heal with basic first aid, but deeper or contaminated wounds may need professional medical attention to prevent infection.",
+        "symptoms": [
+            "Bleeding from broken skin",
+            "Pain or tenderness at the injury site",
+            "Possible swelling or redness"
+        ],
+        "first_aid": "Apply direct pressure with a clean cloth to stop bleeding. Clean the wound gently with clean water or saline. Cover the wound with a sterile bandage. Change the bandage when dirty or wet.",
+        "prevention": "Use protective gloves or tools when handling sharp objects. Keep tetanus vaccinations up to date. Maintain good hand hygiene during wound care. Avoid contact with contaminated surfaces."
+    },
+    {
+        "condition": "Bruises",
+        "explanation": "A bruise forms when small blood vessels under the skin break due to an impact, causing blood to leak into the surrounding tissue. Most bruises heal naturally within two weeks.",
+        "symptoms": [
+            "Discoloration of skin (changing colors as it heals)",
+            "Tenderness or mild pain at the site",
+            "Possible swelling"
+        ],
+        "first_aid": "Apply a cold compress for 15–20 minutes several times a day for the first 48 hours. Elevate the bruised area to reduce swelling. After two days, use a warm compress to promote healing. Rest and avoid pressure on the bruised area.",
+        "prevention": "Maintain good nutrition (including vitamins C and K). Use protective gear during physical activities. Be cautious on slippery or uneven surfaces. Review medications that may increase bruising risk with a doctor."
+    },
+    {
+        "condition": "Burns",
+        "explanation": "Burns are injuries to the skin caused by heat, chemicals, electricity, or radiation. Severity ranges from minor (first-degree) to severe (third-degree).",
+        "symptoms": [
+            "Redness, pain, or blistering of skin",
+            "Swelling around the affected area",
+            "Peeling or white, charred areas in severe burns"
+        ],
+        "first_aid": "Cool the burn under cool running water for at least 20 minutes. Remove jewelry or tight clothing near the burn area. Cover loosely with a clean, non-stick dressing. Do not apply butter, toothpaste, or oil-based creams. Ensure power is off for electrical burns.",
+        "prevention": "Keep hot liquids, stoves, and chemicals out of children’s reach. Use protective gear around open flames. Install and regularly test smoke alarms. Follow safety protocols when handling electrical equipment."
+    },
+    {
+        "condition": "Sprains",
+        "explanation": "A sprain is an injury to a ligament (tissue connecting bones at joints), commonly in the ankle, knee, or wrist, caused by twisting or sudden impact.",
+        "symptoms": [
+            "Pain, swelling, and bruising around a joint",
+            "Limited movement or instability",
+            "A popping sound or feeling at the time of injury"
+        ],
+        "first_aid": "Follow the **R.I.C.E.** method: Rest, Ice (15-20 min several times a day), Compression (elastic bandage), and Elevation. Avoid putting weight on the injured area until pain subsides.",
+        "prevention": "Warm up before exercise. Wear well-fitting footwear and protective gear. Maintain muscle strength and flexibility. Avoid uneven or slippery surfaces when possible."
+    },
+    {
+        "condition": "Bee Sting",
+        "explanation": "A bee sting injects venom, causing localized pain and swelling. Most stings are mild, but they pose a risk of life-threatening allergic reactions (anaphylaxis) in susceptible individuals.",
+        "symptoms": [
+            "Immediate pain or burning at the sting site",
+            "Redness and swelling around the sting",
+            "Itching or warmth at the affected area",
+            "Severe: hives, throat swelling, difficulty breathing"
+        ],
+        "first_aid": "Remove the stinger quickly by scraping it off—avoid using tweezers. Wash the sting site with soap and water. Apply a cold compress to reduce pain and swelling. Monitor closely for signs of a severe allergic reaction.",
+        "prevention": "Stay calm and avoid swatting at bees. Wear light-colored, smooth clothing when outdoors. Avoid perfumes and scented soaps. Keep food and garbage tightly covered outdoors. Carry an epinephrine auto-injector if allergic."
+    },
+    {
+        "condition": "Sunburn",
+        "explanation": "Sunburn is damage to the skin caused by overexposure to ultraviolet (UV) rays. It causes pain and blistering and increases the long-term risk of skin cancer.",
+        "symptoms": [
+            "Red, warm, and tender skin",
+            "Pain or swelling in affected areas",
+            "Blisters in severe cases",
+            "Headache, fever, or nausea in serious burns"
+        ],
+        "first_aid": "Take cool baths or apply cool, wet cloths to soothe skin. Apply aloe vera or moisturizing lotion to affected areas. Take ibuprofen or acetaminophen to relieve pain. Stay hydrated and avoid further sun exposure. Do not pop blisters.",
+        "prevention": "Avoid direct sunlight between 10 a.m. and 4 p.m. Wear protective clothing, including a wide-brimmed hat. Use broad-spectrum sunscreen with SPF 30 or higher. Reapply sunscreen every 2 hours or after swimming/sweating."
+    },
+    {
+        "condition": "Eye Irritation",
+        "explanation": "Eye irritation can result from infections (like pink eye), allergies, chemical exposure, or foreign particles. Some infections are highly contagious.",
+        "symptoms": [
+            "Redness or swelling of the eye",
+            "Watery or thick discharge",
+            "Itching, burning, or gritty sensation",
+            "Crusting of eyelids or lashes"
+        ],
+        "first_aid": "Wash hands thoroughly before and after touching your eyes. Avoid rubbing your eyes. Use clean water or sterile saline to gently rinse out debris. Apply a cold, clean compress for relief. Remove contact lenses and avoid makeup until healed.",
+        "prevention": "Wash hands frequently and avoid touching eyes. Do not share makeup, towels, or contact lenses. Handle contact lenses only with clean hands. Wear protective eyewear when handling chemicals or debris."
+    },
+    {
+        "condition": "Insect Bites",
+        "explanation": "Insect bites are common and usually minor, but they can occasionally cause allergic reactions or transmit diseases like malaria, dengue, or Zika.",
+        "symptoms": [
+            "Redness and swelling at the bite site",
+            "Itching or mild pain",
+            "Warmth around the affected area",
+            "In rare cases: allergic reactions or infection"
+        ],
+        "first_aid": "Wash the bite area with soap and water. Apply a cold compress to reduce swelling and itching. Avoid scratching to prevent infection.",
+        "prevention": "Use EPA-approved insect repellents with DEET or picaridin. Wear long sleeves and pants outdoors. Eliminate standing water around your home to prevent mosquito breeding. Keep windows and doors screened."
+    },
+    {
+        "condition": "Influenza",
+        "explanation": "Flu is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and sometimes lungs. It spreads easily through droplets when infected people cough or sneeze.",
+        "symptoms": [
+            "Sudden fever or feeling feverish",
+            "Cough and sore throat",
+            "Runny or stuffy nose",
+            "Muscle or body aches and headache",
+            "Fatigue"
+        ],
+        "first_aid": "Get plenty of rest and drink fluids. Take fever or pain reducers if needed. Seek medical care if symptoms are severe or you are at high risk for complications.",
+        "prevention": "Get a flu vaccine every year. Wash hands frequently. Avoid close contact with sick people. Cover coughs and sneezes. Stay home if you’re sick."
+    },
+    {
+        "condition": "Food Poisoning",
+        "explanation": "Food poisoning occurs when you consume food or drinks contaminated with harmful bacteria, viruses, or toxins. It can cause gastrointestinal distress and dehydration.",
+        "symptoms": [
+            "Diarrhea and stomach cramps",
+            "Nausea and vomiting",
+            "Fever"
+        ],
+        "first_aid": "Drink plenty of fluids to prevent dehydration. Eat bland foods like rice or toast once you can keep food down. Avoid dairy, alcohol, and fatty foods until fully recovered. Seek medical help if symptoms last over 3 days or if you notice blood in stool.",
+        "prevention": "Wash hands, utensils, and surfaces before and after food prep. Separate raw meat from other foods. Cook food to safe internal temperatures. Refrigerate leftovers within 2 hours."
+    },
+    {
+        "condition": "Dehydration",
+        "explanation": "Dehydration happens when your body loses more fluids than it takes in, leading to reduced water balance. It is often caused by heat, exercise, or illness.",
+        "symptoms": [
+            "Extreme thirst",
+            "Fatigue or dizziness",
+            "Headache",
+            "Dark urine or reduced urination",
+            "Dry mouth and lips"
+        ],
+        "first_aid": "Drink water or oral rehydration solutions. Avoid alcohol, caffeine, and sugary drinks. Rest in a cool area. Seek medical help if there is confusion, fainting, or no urination.",
+        "prevention": "Drink fluids regularly, even before feeling thirsty. Increase fluid intake in hot weather or during exercise. Eat water-rich foods like fruits and vegetables. Monitor urine color as an indicator of hydration."
+    },
+    {
+        "condition": "Toothache",
+        "explanation": "A toothache is often caused by cavities, infections, or gum disease that affect the tooth nerve or surrounding tissues.",
+        "symptoms": [
+            "Pain or sensitivity in tooth or mouth",
+            "Pain when biting or chewing",
+            "Swelling around the affected tooth or jaw",
+            "Headache or earache"
+        ],
+        "first_aid": "Rinse mouth with warm salt water. Apply a cold compress to the outside of the jaw to reduce pain and swelling. See a dentist as soon as possible.",
+        "prevention": "Brush and floss teeth regularly. Visit the dentist for regular checkups. Limit sugary foods and drinks. Use fluoride toothpaste."
+    },
+    {
+        "condition": "Skin Infections",
+        "explanation": "Skin infections occur when bacteria enter through a cut or break in the skin, leading to conditions such as cellulitis or abscesses. They can range from mild to severe if untreated.",
+        "symptoms": [
+            "Redness and swelling of the skin",
+            "Pain or tenderness in the affected area",
+            "Warm skin to the touch",
+            "Pus formation (in abscesses)",
+            "Fever in some cases"
+        ],
+        "first_aid": "Keep the infected area clean and dry, washing gently with soap and water. Seek medical care if redness or pain worsens, or if fever develops.",
+        "prevention": "Wash hands regularly. Clean cuts and wounds with soap and water immediately. Keep skin moisturized and healthy. Manage conditions like diabetes or eczema that increase risk."
+    },
+    {
+        "condition": "Acne",
+        "explanation": "Acne is a common skin condition caused by excess oil production, clogged pores, bacteria, and inflammation. It is most common during puberty.",
+        "symptoms": [
+            "Pimples or blackheads on face, chest, or back",
+            "Red, inflamed bumps or cysts",
+            "Oily skin",
+            "Possible scarring if picked or squeezed"
+        ],
+        "first_aid": "Wash face gently twice a day with mild cleanser. Avoid picking or squeezing pimples. See a dermatologist for persistent or severe acne.",
+        "prevention": "Keep skin clean but don’t over-wash. Avoid oily cosmetics and hair products. Manage stress and eat a balanced diet. Follow prescribed treatments consistently for best results."
+    },
+    {
+        "condition": "Dandruff",
+        "explanation": "Dandruff is a common, non-contagious scalp condition where skin flakes off due to excess oil, dryness, or a mild fungal imbalance. It’s often linked to seborrheic dermatitis.",
+        "symptoms": [
+            "White flakes on scalp or hair",
+            "Itchy scalp",
+            "Dryness or mild redness"
+        ],
+        "first_aid": "Massage shampoo into scalp and leave for a few minutes before rinsing. Avoid scratching the scalp. See a dermatologist if symptoms persist or worsen.",
+        "prevention": "Wash hair regularly with mild or medicated shampoo. Avoid very hot showers and harsh styling products. Reduce stress and maintain scalp hygiene. Keep scalp moisturized."
+    },
+    {
+        "condition": "Stress and Anxiety",
+        "explanation": "Stress is a normal response to pressure, but chronic stress and prolonged worry may indicate anxiety disorders. Healthy coping strategies and professional help are key.",
+        "symptoms": [
+            "Restlessness or irritability",
+            "Fatigue or sleep problems",
+            "Headaches or stomach discomfort",
+            "Difficulty concentrating",
+            "Persistent worry or fear"
+        ],
+        "first_aid": "Practice deep breathing and relaxation techniques. Maintain a routine with adequate rest and nutrition. Engage in physical activity or mindfulness. Connect with friends and family for support. Seek medical care if persistent worry affects daily functioning or if thoughts of self-harm occur (call a crisis helpline).",
+        "prevention": "Develop regular coping habits like journaling and exercise. Take breaks and manage workload. Seek help early when overwhelmed. Practice mindfulness and self-compassion."
+    },
+    {
+        "condition": "Insomnia",
+        "explanation": "Insomnia is a common sleep disorder. Chronic sleep deprivation can lead to serious health problems including heart disease and depression.",
+        "symptoms": [
+            "Trouble falling or staying asleep",
+            "Waking up too early",
+            "Daytime fatigue or irritability",
+            "Difficulty concentrating"
+        ],
+        "first_aid": "Go to bed and wake up at the same time daily. Avoid caffeine, alcohol, and heavy meals before bed. Limit screen time 30 minutes before sleeping. Keep bedroom dark, quiet, and cool. Seek medical care if persistent insomnia affects work or safety.",
+        "prevention": "Maintain consistent sleep schedule. Manage stress and anxiety. Avoid long daytime naps. Ensure comfortable sleep environment."
+    },
+    {
+        "condition": "Low Back Pain",
+        "explanation": "Low back pain (LBP) is a leading cause of disability worldwide, often resulting from poor posture, muscle strain, or structural issues. Most cases improve with activity and rehabilitation.",
+        "symptoms": [
+            "Pain between lower ribs and buttocks",
+            "Limited movement or stiffness",
+            "Radiating pain to legs (sciatica)",
+            "Muscle spasms or soreness"
+        ],
+        "first_aid": "Stay active and avoid prolonged bed rest. Use heat or cold packs for pain relief. Maintain proper posture and ergonomic setup. Engage in gentle stretching or physiotherapy. Seek medical care if pain is severe, lasts more than 6 weeks, or includes loss of bladder/bowel control.",
+        "prevention": "Exercise regularly and strengthen back muscles. Maintain healthy weight. Avoid smoking and prolonged sitting. Lift objects using knees, not your back."
+    },
+    {
+        "condition": "Neck Pain",
+        "explanation": "Neck pain is a common musculoskeletal disorder, often caused by poor posture, stress, or repetitive strain. It can become chronic if left unaddressed.",
+        "symptoms": [
+            "Pain or stiffness in neck area",
+            "Reduced range of motion",
+            "Headaches starting from the neck",
+            "Muscle tightness or spasms"
+        ],
+        "first_aid": "Apply ice for the first 48 hours, then switch to heat. Do gentle neck stretches. Maintain good posture while sitting and sleeping. Use supportive pillows. Seek medical care if severe pain follows an injury or if numbness/weakness occurs in the arms.",
+        "prevention": "Maintain ergonomic posture at work. Exercise regularly and stretch neck muscles. Reduce stress through mindfulness or yoga. Ensure proper sleep position."
+    },
+    {
+        "condition": "Healthy Eating",
+        "explanation": "Healthy eating involves balancing meals with nutrient-rich foods while limiting unhealthy fats, sugar, and sodium. It supports growth, reduces chronic disease risk, and improves energy, immunity, and cognitive function.",
+        "symptoms": [
+            "Poor nutrition",
+            "Low energy",
+            "Weak immunity"
+        ],
+        "first_aid": "Base meals on higher-fiber foods and include a variety of vegetables and fruits. Choose healthy fats like olive oil, nuts, and seeds. Eat lean protein (fish, beans). Limit saturated fat, sugar, and sodium (under 6g salt/day for adults).",
+        "prevention": "Supports healthy growth and development. Reduces the risk of heart disease, type 2 diabetes, and some cancers. Helps maintain a healthy weight. Improves energy levels and cognitive function."
+    },
+    {
+        "condition": "Physical Activity",
+        "explanation": "Regular physical activity improves overall health, supports growth in children, strengthens muscles and bones, and reduces the risk of chronic diseases.",
+        "symptoms": [
+            "Sedentary lifestyle",
+            "Fatigue",
+            "Muscle weakness"
+        ],
+        "first_aid": "Adults: Aim for at least 150 minutes of moderate-intensity activity per week and 2 days of muscle-strengthening exercises. Children (6–17 years): Aim for at least 60 minutes of moderate-to-vigorous activity daily.",
+        "prevention": "Strengthens muscles and bones. Reduces the risk of heart disease and diabetes. Helps maintain a healthy weight. Boosts mood and cognitive function."
+    },
+    {
+        "condition": "Hydration",
+        "explanation": "Adequate hydration is essential for bodily functions, including circulation, temperature regulation, muscle function, and cognitive performance.",
+        "symptoms": [
+            "Thirst (late sign of dehydration)",
+            "Fatigue or dizziness",
+            "Mood changes or confusion",
+            "Constipation"
+        ],
+        "first_aid": "Drink fluids regularly, ideally before feeling thirsty. Monitor urine color (pale yellow is adequate). Avoid excessive alcohol, caffeine, and sugary drinks. Consult a doctor if you have medical conditions affecting fluid intake.",
+        "prevention": "Prevents dehydration. Supports heart and muscle function. Improves cognitive function and mood. Helps maintain overall body functions efficiently."
+    }
+]
